@@ -18,6 +18,5 @@ Welcome to my GitHub profile! I'm a passionate WordPress developer with a knack 
 
 - ⚡ **Fun Fact:** I love exploring AI technologies and integrating them into everyday applications.
 
-![Sanad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanadqazi&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanadqazi&layout=compact&theme=radical)
