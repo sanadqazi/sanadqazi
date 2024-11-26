@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Sanad Qazi! 👋
 
-<!--
-**sanadqazi/sanadqazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate WordPress developer with a knack for building innovative solutions. Here's a bit about me:
 
-Here are some ideas to get you started:
+- 🔭 **Current Projects:**
+  - [Active Redirect Plugin](https://github.com/sanadqazi/active-redirect): A custom redirection plugin for WordPress.
+  - [MUI CRUD Application](https://github.com/sanadqazi/mui-crud): A CRUD application built with Material-UI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 **Skills:**
+  - **Languages:** PHP, JavaScript
+  - **Frameworks:** ReactJS, Node.js
+  - **Databases:** MySQL, MongoDB
+  - **Tools:** WordPress, Git
+
+- 💬 **Let's Connect:**
+  - [LinkedIn](https://www.linkedin.com/in/sanadqazi/)
+  - [Twitter](https://twitter.com/sanadqazi)
+
+- ⚡ **Fun Fact:** I love exploring AI technologies and integrating them into everyday applications.
+
+![Sanad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanadqazi&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanadqazi&layout=compact&theme=radical)
