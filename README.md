@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate WordPress developer with a knack 
   - **Tools:** Git, WordPress
 
 - 💬 **Let's Connect:**
-  - [LinkedIn](https://www.linkedin.com/in/sanadqazi/)
+  - [LinkedIn](https://www.linkedin.com/in/qazisanad/)
 
 - ⚡ **Fun Fact:** I love exploring AI technologies and integrating them into everyday applications.
 
